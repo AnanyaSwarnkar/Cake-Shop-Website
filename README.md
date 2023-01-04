@@ -15,6 +15,3 @@ The project contains three pages which are:
 2. About Page - This contains few details about the bakery.
 
 3. Bakers - This page contains a gallery of the bakers.
-
-
-Live Url = https://abdulsamadayoade.github.io/Bakery
