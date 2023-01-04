@@ -1,6 +1,4 @@
 # Bakery
- 
- <img src="images/screenshot.jpg" alt="project">
 
 Bakery is a mobile first, clean and responsive template built for a bakery.
 
