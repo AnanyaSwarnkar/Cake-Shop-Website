@@ -15,3 +15,7 @@ The project contains three pages which are:
 2. About Page - This contains few details about the bakery.
 
 3. Bakers - This page contains a gallery of the bakers.
+
+#Screen Recording for Over-view of the Website
+
+https://user-images.githubusercontent.com/97191169/236780969-96d27821-b87c-466e-b417-33d6c80c7842.mp4
